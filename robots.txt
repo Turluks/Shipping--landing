@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://turluks.github.io/Shipping--landing/sitemap_turluks.xml
